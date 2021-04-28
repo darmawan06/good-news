@@ -1,0 +1,8 @@
+{
+  "name": "GoodNews",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "1e5d2906"
+}
